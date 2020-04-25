@@ -1,4 +1,4 @@
-package multihashing
+package gomultihashing
 
 // #include "scryptn.h"
 import "C"

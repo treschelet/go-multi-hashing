@@ -1,4 +1,4 @@
-package multihashing
+package gomultihashing
 
 import (
 	"bytes"
